@@ -1,0 +1,232 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ARMAN\u00C7\\source\\repos\\PizzaciPOS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ARMAN\u00C7\\AppData\\Local\\Temp\\.vsdbgsrc\\1289c65372ec3ba20fd3fcc975fec5beb33e354e2a469622722dc4c54de16296\\NetworkStream.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA15CAFD-5017-4A0D-B72F-3EF416D04333}|PizzaciPOS\\PizzaciPOS.csproj|c:\\users\\arman\u00E7\\source\\repos\\pizzacipos\\pizzacipos\\controllers\\siparisyonetimicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA15CAFD-5017-4A0D-B72F-3EF416D04333}|PizzaciPOS\\PizzaciPOS.csproj|solutionrelative:pizzacipos\\controllers\\siparisyonetimicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ARMAN\u00C7\\AppData\\Local\\Temp\\.vsdbgsrc\\943866804c986b3f1c185b0aaf5a6b2eb778d67c9141c5459bf5f86981d49a11\\AsyncTaskMethodBuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ARMAN\u00C7\\AppData\\Local\\Temp\\.vsdbgsrc\\5cbea72537ce83ad8d2e94cdf08acbe1b5b9680728551f045509cd93ffd44716\\ValueTask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ARMAN\u00C7\\AppData\\Local\\Temp\\.vsdbgsrc\\af658d69b4db9df192e72b7d3ccacd972cedef3ffec8620e94f597f34ea8a88b\\Validators.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ARMAN\u00C7\\AppData\\Local\\Temp\\.vsdbgsrc\\7dc5ab1e98ce042258a1ad41fe58ffd9f43f1589482f3d0fb2f7522ecf73778b\\Socket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA15CAFD-5017-4A0D-B72F-3EF416D04333}|PizzaciPOS\\PizzaciPOS.csproj|c:\\users\\arman\u00E7\\source\\repos\\pizzacipos\\pizzacipos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA15CAFD-5017-4A0D-B72F-3EF416D04333}|PizzaciPOS\\PizzaciPOS.csproj|solutionrelative:pizzacipos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ARMAN\u00C7\\AppData\\Local\\Temp\\.vsdbgsrc\\650e64bf0a39367745ab8b0c43bbaa0efa4812364655f5841ed3f3bf22fd0ae5\\ExecutionStrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ARMAN\u00C7\\AppData\\Local\\Temp\\.vsdbgsrc\\df93bd36e90aa223b884d68f27946e2f96b444d0894f88ac96c4b024f8dd031d\\DbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ARMAN\u00C7\\AppData\\Local\\Temp\\.vsdbgsrc\\37c2e6367efdac754c5f8d05243b8201fd677a941046288c395cdf320547c6b4\\StateManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA15CAFD-5017-4A0D-B72F-3EF416D04333}|PizzaciPOS\\PizzaciPOS.csproj|c:\\users\\arman\u00E7\\source\\repos\\pizzacipos\\pizzacipos\\controllers\\raporlamacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA15CAFD-5017-4A0D-B72F-3EF416D04333}|PizzaciPOS\\PizzaciPOS.csproj|solutionrelative:pizzacipos\\controllers\\raporlamacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA15CAFD-5017-4A0D-B72F-3EF416D04333}|PizzaciPOS\\PizzaciPOS.csproj|c:\\users\\arman\u00E7\\source\\repos\\pizzacipos\\pizzacipos\\controllers\\urunyonetimicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA15CAFD-5017-4A0D-B72F-3EF416D04333}|PizzaciPOS\\PizzaciPOS.csproj|solutionrelative:pizzacipos\\controllers\\urunyonetimicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA15CAFD-5017-4A0D-B72F-3EF416D04333}|PizzaciPOS\\PizzaciPOS.csproj|c:\\users\\arman\u00E7\\source\\repos\\pizzacipos\\pizzacipos\\data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA15CAFD-5017-4A0D-B72F-3EF416D04333}|PizzaciPOS\\PizzaciPOS.csproj|solutionrelative:pizzacipos\\data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NetworkStream.cs",
+              "DocumentMoniker": "C:\\Users\\ARMAN\u00C7\\AppData\\Local\\Temp\\.vsdbgsrc\\1289c65372ec3ba20fd3fcc975fec5beb33e354e2a469622722dc4c54de16296\\NetworkStream.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\1289c65372ec3ba20fd3fcc975fec5beb33e354e2a469622722dc4c54de16296\\NetworkStream.cs",
+              "ToolTip": "C:\\Users\\ARMAN\u00C7\\AppData\\Local\\Temp\\.vsdbgsrc\\1289c65372ec3ba20fd3fcc975fec5beb33e354e2a469622722dc4c54de16296\\NetworkStream.cs [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\1289c65372ec3ba20fd3fcc975fec5beb33e354e2a469622722dc4c54de16296\\NetworkStream.cs [Read Only]",
+              "ViewState": "AgIAAIcBAAAAAAAAAAAhwJUBAAACAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-05T16:34:52.847Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AsyncTaskMethodBuilder.cs",
+              "DocumentMoniker": "C:\\Users\\ARMAN\u00C7\\AppData\\Local\\Temp\\.vsdbgsrc\\943866804c986b3f1c185b0aaf5a6b2eb778d67c9141c5459bf5f86981d49a11\\AsyncTaskMethodBuilder.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\943866804c986b3f1c185b0aaf5a6b2eb778d67c9141c5459bf5f86981d49a11\\AsyncTaskMethodBuilder.cs",
+              "ToolTip": "C:\\Users\\ARMAN\u00C7\\AppData\\Local\\Temp\\.vsdbgsrc\\943866804c986b3f1c185b0aaf5a6b2eb778d67c9141c5459bf5f86981d49a11\\AsyncTaskMethodBuilder.cs [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\943866804c986b3f1c185b0aaf5a6b2eb778d67c9141c5459bf5f86981d49a11\\AsyncTaskMethodBuilder.cs [Read Only]",
+              "ViewState": "AgIAAHMAAAAAAAAAAAAAwIIAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T06:48:50.472Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ValueTask.cs",
+              "DocumentMoniker": "C:\\Users\\ARMAN\u00C7\\AppData\\Local\\Temp\\.vsdbgsrc\\5cbea72537ce83ad8d2e94cdf08acbe1b5b9680728551f045509cd93ffd44716\\ValueTask.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\5cbea72537ce83ad8d2e94cdf08acbe1b5b9680728551f045509cd93ffd44716\\ValueTask.cs",
+              "ToolTip": "C:\\Users\\ARMAN\u00C7\\AppData\\Local\\Temp\\.vsdbgsrc\\5cbea72537ce83ad8d2e94cdf08acbe1b5b9680728551f045509cd93ffd44716\\ValueTask.cs [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\5cbea72537ce83ad8d2e94cdf08acbe1b5b9680728551f045509cd93ffd44716\\ValueTask.cs [Read Only]",
+              "ViewState": "AgIAANQBAAAAAAAAAAAAwOMBAAAEAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T06:48:39.877Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Validators.cs",
+              "DocumentMoniker": "C:\\Users\\ARMAN\u00C7\\AppData\\Local\\Temp\\.vsdbgsrc\\af658d69b4db9df192e72b7d3ccacd972cedef3ffec8620e94f597f34ea8a88b\\Validators.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\af658d69b4db9df192e72b7d3ccacd972cedef3ffec8620e94f597f34ea8a88b\\Validators.cs",
+              "ToolTip": "C:\\Users\\ARMAN\u00C7\\AppData\\Local\\Temp\\.vsdbgsrc\\af658d69b4db9df192e72b7d3ccacd972cedef3ffec8620e94f597f34ea8a88b\\Validators.cs [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\af658d69b4db9df192e72b7d3ccacd972cedef3ffec8620e94f597f34ea8a88b\\Validators.cs [Read Only]",
+              "ViewState": "AgIAAHYBAAAAAAAAAAAAwIUBAAACAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T06:48:25.252Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ARMAN\u00C7\\AppData\\Local\\Temp\\.vsdbgsrc\\df93bd36e90aa223b884d68f27946e2f96b444d0894f88ac96c4b024f8dd031d\\DbContext.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\df93bd36e90aa223b884d68f27946e2f96b444d0894f88ac96c4b024f8dd031d\\DbContext.cs",
+              "ToolTip": "C:\\Users\\ARMAN\u00C7\\AppData\\Local\\Temp\\.vsdbgsrc\\df93bd36e90aa223b884d68f27946e2f96b444d0894f88ac96c4b024f8dd031d\\DbContext.cs [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\df93bd36e90aa223b884d68f27946e2f96b444d0894f88ac96c4b024f8dd031d\\DbContext.cs [Read Only]",
+              "ViewState": "AgIAAGcBAAAAAAAAAAAAwHYBAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T21:29:43.063Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ExecutionStrategy.cs",
+              "DocumentMoniker": "C:\\Users\\ARMAN\u00C7\\AppData\\Local\\Temp\\.vsdbgsrc\\650e64bf0a39367745ab8b0c43bbaa0efa4812364655f5841ed3f3bf22fd0ae5\\ExecutionStrategy.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\650e64bf0a39367745ab8b0c43bbaa0efa4812364655f5841ed3f3bf22fd0ae5\\ExecutionStrategy.cs",
+              "ToolTip": "C:\\Users\\ARMAN\u00C7\\AppData\\Local\\Temp\\.vsdbgsrc\\650e64bf0a39367745ab8b0c43bbaa0efa4812364655f5841ed3f3bf22fd0ae5\\ExecutionStrategy.cs [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\650e64bf0a39367745ab8b0c43bbaa0efa4812364655f5841ed3f3bf22fd0ae5\\ExecutionStrategy.cs [Read Only]",
+              "ViewState": "AgIAAIEAAAAAAAAAAAAAwJAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T21:29:33.794Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "StateManager.cs",
+              "DocumentMoniker": "C:\\Users\\ARMAN\u00C7\\AppData\\Local\\Temp\\.vsdbgsrc\\37c2e6367efdac754c5f8d05243b8201fd677a941046288c395cdf320547c6b4\\StateManager.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\37c2e6367efdac754c5f8d05243b8201fd677a941046288c395cdf320547c6b4\\StateManager.cs",
+              "ToolTip": "C:\\Users\\ARMAN\u00C7\\AppData\\Local\\Temp\\.vsdbgsrc\\37c2e6367efdac754c5f8d05243b8201fd677a941046288c395cdf320547c6b4\\StateManager.cs [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\37c2e6367efdac754c5f8d05243b8201fd677a941046288c395cdf320547c6b4\\StateManager.cs [Read Only]",
+              "ViewState": "AgIAAJcDAAAAAAAAAAAAwKYDAAADAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T21:29:23.843Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Socket.cs",
+              "DocumentMoniker": "C:\\Users\\ARMAN\u00C7\\AppData\\Local\\Temp\\.vsdbgsrc\\7dc5ab1e98ce042258a1ad41fe58ffd9f43f1589482f3d0fb2f7522ecf73778b\\Socket.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\7dc5ab1e98ce042258a1ad41fe58ffd9f43f1589482f3d0fb2f7522ecf73778b\\Socket.cs",
+              "ToolTip": "C:\\Users\\ARMAN\u00C7\\AppData\\Local\\Temp\\.vsdbgsrc\\7dc5ab1e98ce042258a1ad41fe58ffd9f43f1589482f3d0fb2f7522ecf73778b\\Socket.cs",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\7dc5ab1e98ce042258a1ad41fe58ffd9f43f1589482f3d0fb2f7522ecf73778b\\Socket.cs",
+              "ViewState": "AgIAAIQBAAAAAAAAAAAAwJMBAAADAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T21:28:08.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RaporlamaController.cs",
+              "DocumentMoniker": "C:\\Users\\ARMAN\u00C7\\source\\repos\\PizzaciPOS\\PizzaciPOS\\Controllers\\RaporlamaController.cs",
+              "RelativeDocumentMoniker": "PizzaciPOS\\Controllers\\RaporlamaController.cs",
+              "ToolTip": "C:\\Users\\ARMAN\u00C7\\source\\repos\\PizzaciPOS\\PizzaciPOS\\Controllers\\RaporlamaController.cs",
+              "RelativeToolTip": "PizzaciPOS\\Controllers\\RaporlamaController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T21:24:37.351Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SiparisYonetimiController.cs",
+              "DocumentMoniker": "C:\\Users\\ARMAN\u00C7\\source\\repos\\PizzaciPOS\\PizzaciPOS\\Controllers\\SiparisYonetimiController.cs",
+              "RelativeDocumentMoniker": "PizzaciPOS\\Controllers\\SiparisYonetimiController.cs",
+              "ToolTip": "C:\\Users\\ARMAN\u00C7\\source\\repos\\PizzaciPOS\\PizzaciPOS\\Controllers\\SiparisYonetimiController.cs",
+              "RelativeToolTip": "PizzaciPOS\\Controllers\\SiparisYonetimiController.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAAACMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T21:24:38.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ARMAN\u00C7\\source\\repos\\PizzaciPOS\\PizzaciPOS\\Program.cs",
+              "RelativeDocumentMoniker": "PizzaciPOS\\Program.cs",
+              "ToolTip": "C:\\Users\\ARMAN\u00C7\\source\\repos\\PizzaciPOS\\PizzaciPOS\\Program.cs",
+              "RelativeToolTip": "PizzaciPOS\\Program.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAwFQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T08:50:06.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DbInitializer.cs",
+              "DocumentMoniker": "C:\\Users\\ARMAN\u00C7\\source\\repos\\PizzaciPOS\\PizzaciPOS\\Data\\DbInitializer.cs",
+              "RelativeDocumentMoniker": "PizzaciPOS\\Data\\DbInitializer.cs",
+              "ToolTip": "C:\\Users\\ARMAN\u00C7\\source\\repos\\PizzaciPOS\\PizzaciPOS\\Data\\DbInitializer.cs",
+              "RelativeToolTip": "PizzaciPOS\\Data\\DbInitializer.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwC4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T07:38:18.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UrunYonetimiController.cs",
+              "DocumentMoniker": "C:\\Users\\ARMAN\u00C7\\source\\repos\\PizzaciPOS\\PizzaciPOS\\Controllers\\UrunYonetimiController.cs",
+              "RelativeDocumentMoniker": "PizzaciPOS\\Controllers\\UrunYonetimiController.cs",
+              "ToolTip": "C:\\Users\\ARMAN\u00C7\\source\\repos\\PizzaciPOS\\PizzaciPOS\\Controllers\\UrunYonetimiController.cs",
+              "RelativeToolTip": "PizzaciPOS\\Controllers\\UrunYonetimiController.cs",
+              "ViewState": "AgIAAHIAAAAAAAAAAAAUwIgAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T13:24:58.615Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

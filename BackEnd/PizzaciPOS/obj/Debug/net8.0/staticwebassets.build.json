@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "R+cVgJjTd7fDIChWbfOGqKcXfZbxRLpkgSI06Maa54k=",
+  "Source": "PizzaciPOS",
+  "BasePath": "_content/PizzaciPOS",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
